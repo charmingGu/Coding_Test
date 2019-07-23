@@ -64,7 +64,7 @@ public class heap_02_lv2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int stock = 4;
-		int[] dates = {1, 3, 5, 7};
+		int[] dates = {4, 6, 7, 8};
 		int[] supplies = {60, 4, 5, 30};
 		int k = 100;
 		System.out.println(solution(stock, dates, supplies, k));
